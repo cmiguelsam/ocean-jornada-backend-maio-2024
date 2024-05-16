@@ -1,2 +1,2 @@
-# ocean-jornada-backend-maio-2024
-Projeto da Jornada Backend de Maio/2024 do Samsung Ocean.
+A Jornada Back End da Samsumg Ocean tem o objetivo de estudar as tecnologias do Back End e proporcionar um Laboratório de Banco de Dados com Mongo DB.
+
